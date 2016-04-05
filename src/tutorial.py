@@ -7,8 +7,8 @@ import traceback
 app = Flask(__name__)
 
 
-TUTORIAL_REPOSITORY = 'http://stardog.krw.d2s.labs.vu.nl/group15'
-#TUTORIAL_REPOSITORY = 'http://localhost:5820/tutorial'
+# TUTORIAL_REPOSITORY = 'http://stardog.krw.d2s.labs.vu.nl/<yourgroup>'
+TUTORIAL_REPOSITORY = 'http://localhost:5820/tutorial'
 
 @app.route('/')
 def first_page():

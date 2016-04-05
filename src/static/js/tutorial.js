@@ -5,8 +5,8 @@
 // #############
 */
 
-var TUTORIAL_REPOSITORY = 'http://stardog.krw.d2s.labs.vu.nl/group15';
-//var TUTORIAL_REPOSITORY = 'http://localhost:5820/tutorial';
+// var TUTORIAL_REPOSITORY = 'http://stardog.krw.d2s.labs.vu.nl/<yourgroup>';
+var TUTORIAL_REPOSITORY = 'http://localhost:5820/tutorial';
 
 
 
